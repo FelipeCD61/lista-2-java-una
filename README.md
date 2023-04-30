@@ -1,9 +1,12 @@
 # lista-2-java-una
-Feito no VS Code
+By: Felipe Claver Diniz [VS Code]
 
 Centro Universitário UNA
+
 Programação de Soluções Computacionais
+
 Professor Daniel Henrique Matos de Paiva
+
 
 Lista de Exercícios em Java II: Estrutura Condicional
 
